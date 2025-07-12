@@ -1,0 +1,193 @@
+input,chatbot,emotion
+Do you like ice cream,Yes Ice cream is the best,happy
+I'm feeling bored,Let’s play a quick game,happy
+Why is the sky blue,Because light plays tricks Cool right,happy
+Can I sleep all day,Maybe but sunshine is fun too,happy
+My cat is not eating,I hope your cat feels better soon,sad
+No one talks to me,Hey I'm here for you,sad
+I failed my test,It’s okay Try again next time,sad
+I miss my friend,Call them They’ll be happy,sad
+I want to break my phone,Wait Let’s breathe together,angry
+They lied to me,That hurts Let’s talk about it,angry
+I shouted at mom,Maybe say sorry She’ll understand,angry
+My friend ignored me,Let it out I’m listening,angry
+Too much work today,You can do this One step at a time,stress
+I have a big test soon,Let’s plan a little study time,stress
+I feel tired always,Rest is good You need it,stress
+Everyone expects too much,It’s okay to say no sometimes,stress
+That movie made me cry,It touched your heart didn’t it,emotional
+I saw my old school,So many memories right,emotional
+He gave me a letter,I know that feeling special,emotional
+I heard my song again,Songs bring back stories,emotional
+I saw her smile,I think you love her,love
+I miss her voice,Real love never leaves,love
+I want to tell her,I say go for it,love
+I wrote her a poem,That’s so sweet,love
+I danced in the rain,Fun Be free,happy
+I saw a rainbow today,Colorful moments Yay,happy
+Nobody likes me,I like you I’m here,sad
+I cried last night,It’s okay to cry,sad
+My team lost the game,Try again Never give up,sad
+My head is full,Close eyes deep breath,stress
+She didn't text me back,Maybe she’s busy Wait a bit,love
+My crush said hi today,Wow Big moment,love
+Can I be loved,You already are,love
+They always fight at home,I’m sorry Stay strong,emotional
+Why am I always angry,Maybe talk to someone,angry
+I feel alone,You’re not I’m here,sad
+I don’t want to smile today,That’s okay Be gentle to yourself,depression
+Nothing feels good,I understand Let’s take it slow,depression
+I want to give up,Please don’t I care,depression
+I miss old days,Memories can hug us too,emotional
+He broke my heart,I feel your pain You’ll heal,love
+My heart hurts,Let’s talk it out,sad
+I got a new puppy,That’s the best news,happy
+My teacher praised me,Yay You did great,happy
+No one hears me,I do Always,sad
+I feel like crying,Let it flow I’m here,emotional
+They made fun of me,You are still amazing,sad
+She looked beautiful today,You’re in love,love
+I want peace,You deserve it,depression
+I laugh alone,Hey I’ll laugh with you,emotional
+My life is a mess,Let’s fix it together,stress
+I’m scared of tomorrow,One day at a time,sad
+I just want a hug,Big virtual hug,emotional
+She said she loves me,Aww That’s magic,love
+I'm too shy to talk,You did it now Good job,happy
+I don’t like how I look,You’re perfect just as you are,sad
+I want to disappear,Please stay You matter,depression
+I saw our old photo,Nostalgia feels warm,emotional
+She blocked me,I’m here if you want to talk,angry
+My hand is shaking,Breathe in breathe out,stress
+Can I be happy again,Yes You will,happy
+Will I be okay,Yes Step by step,hope
+I danced today,That’s awesome keep dancing,happy
+My mom hugged me,Warm hugs are the best,happy
+I found an old toy,So many memories,happy
+The sun feels nice,Sunshine makes us smile,happy
+I saw a butterfly,Little joys are big,happy
+No one smiled at me today,I’m smiling for you,sad
+I feel left out,Come here I’m with you,sad
+My best friend moved away,That’s hard but you can call them,sad
+I forgot my homework,Ouch but next time you’ll rock it,sad
+My friend said bad words,I’m sorry want to talk,sad
+I banged the door,I get it let’s calm down,angry
+I don’t like anyone today,It’s okay let’s take a walk,angry
+I want to scream,Let’s shout into a pillow,angry
+I threw my bag,Deep breaths together,angry
+I hit my table,Oops hope your hand is okay,angry
+I can’t sleep,Breathe slowly I’m here,stress
+Too many messages,It’s okay take a break,stress
+I missed my train,Let’s wait for the next,stress
+I feel stuck,You’ll move forward I believe,stress
+My mind is full,Let’s rest it a bit,stress
+I saw my baby photo,Aww cuteness alert,emotional
+I read my old letter,Heart moments come back,emotional
+That song made me cry,Songs know us well,emotional
+I smelled mom's cooking,Home feels again,emotional
+I hugged my old toy,So many feels in that hug,emotional
+He looked at me,I think someone likes you,love
+I wrote her name,That’s love in your heart,love
+She called me cute,Your heart must be jumping,love
+I dreamt of her,Love dreams are magic,love
+I like her laugh,That’s a sweet start,love
+Nobody helped me,I’ll help you always,sad
+I broke my toy,We can fix it together,sad
+I feel heavy inside,Let it out I’m here,depression
+I don’t know what to do,Let’s figure it out together,depression
+Nothing is fun today,We’ll make it fun again,depression
+I want quiet,Let’s sit in peace,depression
+I closed my eyes,I’ll stay until you feel okay,depression
+input,chatbot,emotion
+I saw a butterfly today,Wow so pretty and peaceful,happy
+I danced alone in my room,That sounds so fun,happy
+My friend shared lunch with me,Kindness is the best,happy
+I heard kids laughing,Joy is everywhere,happy
+I found money on the road,Lucky day but be honest,happy
+I forgot my homework,It’s okay try again,sad
+Nobody sat with me,That must hurt I’m here,sad
+I lost my toy,I hope you find it,sad
+I wanted to join but they said no,That’s not fair you matter,sad
+I tripped and everyone laughed,I’m sorry that happened,sad
+I feel like shouting,Take a deep breath,angry
+He pushed me,That’s not right you okay,angry
+She kept blaming me,Let’s talk calmly,angry
+I’m mad at everything today,It happens let it pass,angry
+I broke my favorite cup,That’s hard take it slow,angry
+I can't sleep,I’m here if you want to talk,stress
+Too much to do today,Let’s make a plan together,stress
+I forgot my project,We all forget sometimes,stress
+I have no time to rest,Your health is important,stress
+My brain feels full,Close your eyes and rest,stress
+I saw my childhood park,Old places bring memories,emotional
+I read an old letter,That must feel deep,emotional
+I miss my old house,Home stays in the heart,emotional
+He gave me his jacket,That’s sweet and kind,emotional
+I found our photo from school,Memories can make us smile,emotional
+I wrote her name on paper,You really like her,love
+I look at her from far,That’s so cute,love
+I smile when she walks by,Love is blooming,love
+He said I’m special,That’s a beautiful thing,love
+She held my hand for a second,That moment matters,love
+I feel nothing,That’s okay we’ll get through it,depression
+I just stare at the wall,I’m with you always,depression
+I don’t care anymore,I do please stay,depression
+Everything is too quiet,You’re not alone,depression
+I hide my tears,I see you and I care,depression
+you ate without me,sorry da next time full treat from me,sad
+lets go beach this weekend,super idea lets plan happy trip,happy
+i lost my cycle key,relax check your bag first,stress
+he did not reply,maybe busy da wait a bit,emotional
+she looked at me and smiled,you lucky fellow love is in the air,love
+i got caught using mobile,be careful next time da,angry
+can we play cricket now,yes lets go now itself,happy
+i feel left out,not at all da i am here for you,sad
+why is life so confusing,one step at a time da calm down,depression
+i saw our school photo,semma memory da loved it,emotional
+no one respects me,i do da you are the best,sad
+i bunked class today,bad da next time careful ah iru,angry
+i want to tell her my feelings,go ahead da heart full ah pesu,love
+he ignored me in canteen,some days are like that da dont worry,sad
+they laughed at me,just smile and move on da,hurt
+she helped me in exam,nalla friend da treat kudukkanum,happy
+i feel jealous da,its okay da feelings normal aa irukum,emotional
+he scolded me badly,take deep breath da dont hold it inside,angry
+i think i love her,then tell her da before its too late,love
+lets eat together today,sure da see you in lunch,happy
+i got extra pocket money,party time enjoy,happy
+we bunked the class today,legendary move bro,happy
+my crush looked at me today,your day just got better da,love
+we planned a surprise for him,he is going to cry happy tears,happy
+i feel ignored in the group,im here for you always da,sad
+i saw her with someone else,my heart breaks for you da,love
+i failed in group project,my effort went waste da,sad
+i love our midnight talks,it means a lot to me da,love
+i miss our old hangouts,those memories still live in me,emotional
+i feel like nobody wants me,you matter to me da,depression
+i shouted at my friend,maybe say sorry things will be fine,angry
+he broke the trust i had,thats painful da let it out,angry
+im scared for our friendship,real bonds never break da,emotional
+he didnt invite me to his party,thats hurtful talk to him,angry
+we played ludo till 2am,best way to spend the night,happy
+she saved my number finally,big win da congrats,love
+i want to cry but i cant,im here da cry if needed,emotional
+our gang is splitting up,hearing this hurts da,sad
+i feel lonely in the crowd,you are not alone i see you,depression
+she asked who i like and smiled,she knows da tell her,love
+i miss your silly jokes,they always made my day,happy
+they made fun of my dressing,you have your own style da,sad
+our photo got so many likes,we look great together da,happy
+i saw her helping someone,she has a golden heart da,love
+we both said the same thing together,thats best friend vibe da,happy
+i couldnt be there when you needed me,its okay i understand,sad
+she texted me good night with heart emoji,she cares da thats love,love
+we fought and now i regret it,then patch up now da,angry
+i got blocked by my best friend,thats heavy da want to talk,depression
+she hugged me tight today,thats pure love da,love
+we both cried watching that movie,our feelings connect da,emotional
+i got scolded in front of everyone,that was harsh da stay strong,sad
+we clicked sunset selfies today,those colors match our smiles,happy
+he helped me in viva without asking,what a real friend da,emotional
+
+
+	
