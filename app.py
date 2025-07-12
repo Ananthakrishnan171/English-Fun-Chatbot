@@ -30,7 +30,7 @@ if os.path.exists("English_Chatbot.csv"):
         st.error(f"❌ Error loading 'English_Chatbot.csv': {e}")
         st.stop()
 else:
-    st.error("❌ 'Ananth.csv' file not found.")
+    st.error("❌ 'English_Chatbot.csv' file not found.")
     st.stop()
 
 # ===============================
