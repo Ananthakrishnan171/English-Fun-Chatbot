@@ -27,7 +27,7 @@ if os.path.exists("English_Chatbot.csv"):
 
         chat_dict = dict(zip(chat_df['input'].str.lower(), chat_df['chatbot']))
     except Exception as e:
-        st.error(f"❌ Error loading 'Ananth.csv': {e}")
+        st.error(f"❌ Error loading 'English_Chatbot.csv': {e}")
         st.stop()
 else:
     st.error("❌ 'Ananth.csv' file not found.")
